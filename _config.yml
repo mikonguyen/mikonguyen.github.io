@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Michael Nguyen # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Science professional with a passion for creative problem solving through data analysis. I am a quick learner possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments. Highly accurate and adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. I have a keen interest in leveraging my analytical and research skills with knowledge and experience in data visualization, statistical inference and machine learning for data driven decisions and products. 
   <br><br>
-  Second description 
+  Currently finishing my M.Eng. in Data Science at University of Toronto and seeking internship or full time opportunities starting April 2021 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/michael-nguyen-984838123/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
