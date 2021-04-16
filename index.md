@@ -2,10 +2,10 @@
 
 ---
 
-## [Loyalty in GitHub Repositories](/loyalty)
-*Assessing developer and repository loyalty on GitHub*
+## [Financial Fraud Detection](/fraud)
+*Detecting fraudulent transactions in mobile money transactions*
 
-<img src="images/loyal.png?raw=true"/>
+<img src="images/fraud.png?raw=true"/>
 
 ---
 
