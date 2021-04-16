@@ -1,35 +1,24 @@
-## Portfolio
+# Data Science Portfolio
 
 ---
 
-### Category Name 1 
+## [Loyalty in GitHub Repositories](/loyalty)
+*Assessing developer and repository loyalty on GitHub*
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/loyal.png?raw=true"/>
 
 ---
 
-### Category Name 2
+## [Predicting Air Pollution ](/pollution)
+*Forecasting multiple time series of air pollution levels*
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/pollution.png?raw=true"/>
 
 ---
 
+## [Health Lifestyle Prediction App](/health)
+*Predicting Health Lifestyle of a user based on BMI, Heartrate and VO2*
 
-
+<img src="images/health.PNG?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
