@@ -15,3 +15,10 @@
 <img src="images/kmeans.png?raw=true"/>
 
 ---
+
+## [Predictive Modelling with Financial Time Series Data](/timeseries.md)
+*Predict future cumulative returns of ETF's*
+
+<img src="images/timeseries.png?raw=true"/>
+
+---
