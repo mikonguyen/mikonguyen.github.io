@@ -12,7 +12,8 @@ Collected, analyzed, and interpreted stock time series data from Wharton Researc
 
 
 
-<img src="images/timeseries2.png?raw=true"/> <img src="images/timeseries3.png?raw=true"/>
+<img src="images/timeseries2.png?raw=true"/> 
+<img src="images/timeseries3.png?raw=true"/>
 
 
 
