@@ -19,6 +19,6 @@
 ## [Predictive Modelling with Financial Time Series Data](/timeseries.md)
 *Predict future cumulative returns of ETF's*
 
-<img src="images/timeseries.png?raw=true"/>
+<img src="images/timeseries3.png?raw=true"/>
 
 ---
